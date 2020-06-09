@@ -1,0 +1,11 @@
+URL = "https://www.members.budokwai.fi"
+LOGIN_URL = "https://members.budokwai.fi/login/"
+LOGIN_BUTTON_SELECTOR = "#shortcode-21-99"
+LOGIN_FIELD = "#user_login"
+PASS_FIELD = "#user_pass"
+SUBMIT = "#wp-submit"
+FYSIIKKA = "div.oxy-post:nth-child(1) > a:nth-child(2)"
+FYSIIKKA_TITLE = "#span-18-69"
+
+USER = "placeholder"
+PASS = "placeholder"
